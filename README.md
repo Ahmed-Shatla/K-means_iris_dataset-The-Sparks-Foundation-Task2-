@@ -1,2 +1,2 @@
 # Unsupervised-Basic-model
-Clustering for iris data (Flower data)
+Clustering using K-means for iris dataset.
